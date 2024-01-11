@@ -1,2 +1,2 @@
 # Contributors
-- [Anan](anannoisia@github.com)
+- [Ananx](anannoisia@github.com)
